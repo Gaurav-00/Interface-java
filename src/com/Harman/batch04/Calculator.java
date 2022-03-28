@@ -8,6 +8,7 @@ public class Calculator
 
     public static void main(String[] args)
     {
+        Addition adcalc=new Addition();
         // classnm objnm=new classnm();
         Calculator calc=new Calculator();
     int n1,n2,sum;
@@ -20,13 +21,27 @@ public class Calculator
 
         //sum=n1+n2;
 
-        sum= calc.addition(n1,n2);
+        sum= adcalc.Addition(n1,n2);
         System.out.println(sum);
 
+        //object creation of substraction
+        Substraction sd=new Substraction();
+        int result;
+        result=sd.Substraction(n1,n2);
+        System.out.println(result);
+
+        //create objectfor multiply class
+        Multiply mu=new Multiply();
+        int y;
+        y=mu.Multiply(n1,n2);
+        System.out.println(y);
+
+        //create object for division class
+        Division di=new Division();
+        int x;
+        x=di.Division(n1,n2);
+        System.out.println(x);
     }
-    public int addition(int x,int y){
-        int z=x+y;
-        return z;
-        }
+
 }
-class student{}
+
