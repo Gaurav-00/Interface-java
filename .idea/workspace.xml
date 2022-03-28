@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94bf2659-1291-4e98-8204-a5226a045604" name="Changes" comment="" />
+    <list default="true" id="94bf2659-1291-4e98-8204-a5226a045604" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/apnacollege/18thday2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26vF4N3YjOiCROJt2EyZCdHhUvm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -89,13 +95,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bank.Bank" />
       <module name="Apna college" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Harman.batch04.Calculator" />
+      <module name="Apna college" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Harman.batch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,16 +148,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.apnacollege.Main" />
-      <module name="Apna college" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.apnacollege.Oops" />
       <module name="Apna college" />
@@ -153,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Oops" />
       <item itemvalue="Application.Bank" />
       <item itemvalue="Application.Examplee" />
       <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Calculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Examplee" />
         <item itemvalue="Application.Oops" />
         <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -179,5 +188,16 @@
       <updated>1648295972551</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
