@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bf2659-1291-4e98-8204-a5226a045604" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Substraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Apna college/com/Harman/batch04/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Apna college/com/Harman/batch04/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Harman/batch04/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Childclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Parentcalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,13 +95,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bank.Bank" />
+  <component name="RunManager" selected="Application.Childclass">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Harman.batch04.Calculator" />
       <module name="Apna college" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bank.*" />
+          <option name="PATTERN" value="com.Harman.batch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Harman.batch04.Calculator" />
+    <configuration name="Childclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Harman.batch04.Childclass" />
       <module name="Apna college" />
       <extension name="coverage">
         <pattern>
@@ -167,18 +163,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Oops" />
-      <item itemvalue="Application.Bank" />
       <item itemvalue="Application.Examplee" />
       <item itemvalue="Application.Example" />
       <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.Childclass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Childclass" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Examplee" />
         <item itemvalue="Application.Oops" />
-        <item itemvalue="Application.Bank" />
       </list>
     </recent_temporary>
   </component>
