@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94bf2659-1291-4e98-8204-a5226a045604" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apna college.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/Bank/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/Bank/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/Bank/Examplee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/com/apnacollege/Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/com/apnacollege/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/com/apnacollege/Oops.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/com/apnacollege/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Apna college/example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/Examplee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank/example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/apnacollege/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/apnacollege/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/apnacollege/Oops.java" afterDir="false" />
-    </list>
+    <list default="true" id="94bf2659-1291-4e98-8204-a5226a045604" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +13,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
