@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bf2659-1291-4e98-8204-a5226a045604" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bank/Timepass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/college.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Harman/batch04/RBI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Harman/batch04/college.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Harman/batch04/college.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +96,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager" selected="Application.College_office">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Harman.batch04.Calculator" />
+    <configuration name="ABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Harman.batch04.ABC" />
       <module name="Apna college" />
       <extension name="coverage">
         <pattern>
@@ -163,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.Childclass" />
       <item itemvalue="Application.Timepass" />
       <item itemvalue="Application.Govt" />
       <item itemvalue="Application.College_office" />
+      <item itemvalue="Application.ABC" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.College_office" />
+        <item itemvalue="Application.ABC" />
         <item itemvalue="Application.Govt" />
         <item itemvalue="Application.Timepass" />
         <item itemvalue="Application.Childclass" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>

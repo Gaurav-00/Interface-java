@@ -2,7 +2,7 @@
 package com.Harman.batch04;
 
 abstract class College {
-    abstract void setAcademyfee();
+    abstract void setAcademyfee();   //we couldnot define function in abstract class
 
 
 }
@@ -21,11 +21,12 @@ class Mechanical extends College{
 }
 class College_office{
     public static void main(String[] args) {
-        CSE_dept cs=new CSE_dept();
+        College cs=new CSE_dept();   //object creation -: abstract_cls_nm obj_nm=new derived_cls_nm
         System.out.println("Cse fee is");
         cs.setAcademyfee();
-        Mechanical me=new Mechanical();
+        College me=new Mechanical(); //object creation -: abstract_cls_nm obj_nm=new derived_cls_nm
         System.out.println("Mechanical fee is");
         me.setAcademyfee();
+
     }
 }
