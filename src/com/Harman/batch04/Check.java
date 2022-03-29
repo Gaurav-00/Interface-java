@@ -2,7 +2,7 @@ package com.Harman.batch04;
 
 public class Check {
     public static void main(String[] args) {
-        //if exception occur we have to handle it.
+  /*       //if exception occur we have to handle it.
     try//possibilty of error then put it in try block
     {
        //String x="Hello";
@@ -28,6 +28,34 @@ public class Check {
                                 //Never put general exception at top of arithmatic and nullpointer exception
                                 //else it will not enter proper catch block it will allways run in default block
         System.out.println(e);
+    }
+    }
+
+
+   */
+        /*
+       int age = 10;
+        if (age < 18) {
+            throw new ArithmeticException("Not eligible to vote");
+
+        }
+        */
+       int x=10,y=0,c;
+
+    try{
+        c=x/y;
+        System.out.println(c);
+    }
+    catch(ArithmeticException e){
+        System.out.println("Denominator should not 0");
+        }
+    catch (Exception e){
+        System.out.println(e);
+
+    }
+    finally {                      //All the stmts. in this block get executed by default without any prblm
+                                    //any type of error can occur finally get executed.
+        System.out.println("Harman Pvt. Ltd.");
     }
     }
 }
