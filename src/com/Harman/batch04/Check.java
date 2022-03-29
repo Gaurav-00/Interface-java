@@ -22,5 +22,12 @@ public class Check {
     {
         System.out.println("Null value is not accepted");
     }
+    //By default this exception occur if nothing is occuring
+    catch (Exception e){    //if exceptio is neither arithmatic not NullPointer then the exception come in this
+                                //default exception block.
+                                //Never put general exception at top of arithmatic and nullpointer exception
+                                //else it will not enter proper catch block it will allways run in default block
+        System.out.println(e);
+    }
     }
 }
