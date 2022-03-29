@@ -5,13 +5,22 @@ public class Check {
         //if exception occur we have to handle it.
     try//possibilty of error then put it in try block
     {
-        int x=10,y=0,z;
-        z=x/y;           //here exception occur after this stmt it goes at catch block.therefore it not print below line.
-        System.out.println(z); //thus we have successfully handlec the error
+       //String x="Hello";
+        //System.out.println(x.length());
+        //if instead of Hello we have null
+        String x=null;
+        System.out.println(x.length());
+        // int x=10,y=0,z;
+        //z=x/y;           //here exception occur after this stmt it goes at catch block.therefore it not print below line.
+        //System.out.println(z); //thus we have successfully handlec the error
     }
-    catch (Exception e) //here in catch you have to give object for exception
+    catch (ArithmeticException e) //here in catch you have to give object for exception
     {
-        System.out.println(e);
+        System.out.println("Divide by 0 not possible");
+    }
+    catch (NullPointerException e)  //this occur if x=null and as error occur the x.length() directly jump here
+    {
+        System.out.println("Null value is not accepted");
     }
     }
 }
